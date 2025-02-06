@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a40c468-0875-440f-8fc5-68dfa47463b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/025_Exercicios: Funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/026_Exercicio: Funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/027_ Exercicio: Funcao com lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/028_Exercicio: Contagem regressiva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/029_Exercicio: Acho o palindromo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/030_Exercicio: Número por extenso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031_Exercicio: Time de futebol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/032_Exercicio: Maior e Menor da lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/033_Exercicio: Análise de dados com tuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/034_Exercicio: lista de preços com tuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/035_Exercicio: Achando as vogais.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pasta de treinamento de logica.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/treinamento com python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/treinamento com python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_Exercício: Média de Notas.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_Exercício: Média de Notas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora de Médias com Filtro.py" beforeDir="false" afterPath="$PROJECT_DIR$/024_Exercicio: Calculadora de Médias com Filtro.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sGnMi57MYf7yIeH6UnlxIlLAe2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.024_Exercicio: Calculadora de Médias com Filtro.executor": "Run",
+    "Python.026_Exercicio: Funcoes.executor": "Run",
+    "Python.027_ Exercicio: Funcao com lista.executor": "Run",
+    "Python.028_Exercicio: Contagem regressiva.executor": "Run",
+    "Python.029_Exercicio: Acho o palindromo.executor": "Run",
+    "Python.030_Exercicio: Número por extenso.executor": "Run",
+    "Python.031_Exercicio: Time de futebol.executor": "Run",
+    "Python.032_Exercicio: Maior e Menor da lista.executor": "Run",
+    "Python.033_Exercicio: Análise de dados com tuplas.executor": "Run",
+    "Python.034_Exercicio: lista de preços com tuplas.executor": "Run",
+    "Python.035_Exercicio: Achando as vogais.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/marcosdev03/Desktop/treinamento com python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a40c468-0875-440f-8fc5-68dfa47463b7" name="Changes" comment="" />
+      <created>1738090733688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738090733688</updated>
+      <workItem from="1738090735706" duration="7138000" />
+      <workItem from="1738102591946" duration="3036000" />
+      <workItem from="1738187551729" duration="4525000" />
+      <workItem from="1738262857742" duration="1000" />
+      <workItem from="1738796980966" duration="4934000" />
+      <workItem from="1738850494462" duration="4668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/treinamento_com_python$024_Exercicio__Calculadora_de_Médias_com_Filtro.coverage" NAME="024_Exercicio: Calculadora de Médias com Filtro Coverage Results" MODIFIED="1738090751651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$033_Exercicio__Análise_de_dados_com_tuplas.coverage" NAME="033_Exercicio: Análise de dados com tuplas Coverage Results" MODIFIED="1738801252277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$026_Exercicio__Funcoes.coverage" NAME="026_Exercicio: Funcoes Coverage Results" MODIFIED="1738091839772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$029_Exercicio__Acho_o_palindromo.coverage" NAME="029_Exercicio: Acho o palindromo Coverage Results" MODIFIED="1738104889603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$034_Exercicio__lista_de_preços_com_tuplas.coverage" NAME="034_Exercicio: lista de preços com tuplas Coverage Results" MODIFIED="1738852910040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$031_Exercicio__Time_de_futebol.coverage" NAME="031_Exercicio: Time de futebol Coverage Results" MODIFIED="1738193683692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$035_Exercicio__Achando_as_vogais.coverage" NAME="035_Exercicio: Achando as vogais Coverage Results" MODIFIED="1738855056485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$030_Exercicio__Número_por_extenso.coverage" NAME="030_Exercicio: Número por extenso Coverage Results" MODIFIED="1738188917050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$027__Exercicio__Funcao_com_lista.coverage" NAME="027_ Exercicio: Funcao com lista Coverage Results" MODIFIED="1738092967398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$032_Exercicio__Maior_e_Menor_da_lista.coverage" NAME="032_Exercicio: Maior e Menor da lista Coverage Results" MODIFIED="1738797850529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/treinamento_com_python$028_Exercicio__Contagem_regressiva.coverage" NAME="028_Exercicio: Contagem regressiva Coverage Results" MODIFIED="1738095304418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

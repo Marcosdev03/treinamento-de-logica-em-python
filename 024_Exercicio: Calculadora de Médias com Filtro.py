@@ -1,3 +1,4 @@
+
 notasValidas = []
 notasIgnoradas = []
 contador = 1
